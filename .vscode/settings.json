@@ -1,0 +1,17 @@
+{
+    "cSpell.ignoreWords": [
+        "buffer",
+        "console",
+        "const",
+        "data",
+        "file",
+        "fs",
+        "json",
+        "log",
+        "parse",
+        "read",
+        "string",
+        "sync",
+        "to"
+    ]
+}
